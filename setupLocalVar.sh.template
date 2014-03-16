@@ -1,0 +1,7 @@
+export DATABASE_URL=postgres://[user_name]:[password]@localhost/[local database name]
+export UA_APP_KEY=[AppKey in Urbanairship]
+export UA_MASTER_SECRET=[Master Secret in Urbanairship]
+export AWS_ACCESS_KEY_ID=[Access Key in AWS]
+export AWS_SECRET_ACCESS_KEY=[Secret in AWS]
+export AWS_STORAGE_BUCKET_NAME=[Bucket Name in AWS S3]
+export AWS_S3_FOLDER=[Folder Name in AWS S3]

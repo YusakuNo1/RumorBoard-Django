@@ -1,0 +1,20 @@
+[
+{
+    "pk": 1, 
+    "model": "mainApp.userprofile", 
+    "fields": {
+        "first_name": "", 
+        "last_name": "", 
+        "description": "", 
+        "is_active": true, 
+        "profileImage": "", 
+        "is_superuser": false, 
+        "last_login": "2014-02-06T12:37:01.511Z", 
+        "groups": [], 
+        "user_permissions": [], 
+        "is_admin": true, 
+        "password": "pbkdf2_sha256$12000$Rfhmsi8RKH67$EqOCCwvT1ZisdyU5NsMWKqAVBNEyo2RfyFWwXw1ckdQ=", 
+        "email": "admin@admin.com"
+    }
+}
+]
